@@ -4,13 +4,17 @@
 ```
 <img src="logo.png" width = "230" alt="" />
 
-## Screenshots
+## iWaker - 陌生人鬧鐘
+在「生活風格」類中排名第 4
+
+
+## iPhone 截圖
  <img src="001.png" width = "200" alt="" align=left />
  <img src="002.png" width = "200" alt="" align=left />
  <img src="003.png" width = "200" alt="" />
  
 
-## Screenshots2
+## iPhone 截圖
  <img src="004.png" width = "200" alt="" align=left />
  <img src="000.png" width = "200" alt="" />
 
