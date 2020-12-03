@@ -7,7 +7,11 @@
 
 <img src="logo.png" width = "230" alt="" />
 
-在「生活風格」類中排名第 4
+  XJIMI  
+  曾經在「工具程式」類中排名第 4   
+  
+  免費
+  
 
 ## iPhone 截圖
  <img src="001.png" width = "200" alt="" align=left />
