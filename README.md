@@ -4,10 +4,9 @@
 ```
 
 ## iWaker - 陌生人鬧鐘
-  XJIMI  
-  曾經在「工具程式」類中排名第 4   
-  
-  免費
+  [XJIMI](XJIMI)
+  <font size=2>曾經在「工具程式」類中排名第 4    
+  <font size=2>免費
    
 <img src="logo.png" width = "230" alt="" />
 
