@@ -3,7 +3,7 @@
 此 App 只能透過 iPhone 的 App Store 取得。
 ```
 ## iWaker - 陌生人鬧鐘 
-[XJIMI](https://github.com/xjimi/app_iwaker)    
+[XJIMI](https://github.com/xjimi/app_iwaker/blob/main/README.md)    
 曾經在「工具程式」類中排名第 4  
 免費    
 
