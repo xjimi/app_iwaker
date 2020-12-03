@@ -1,8 +1,7 @@
 # App Store Preview
 ```
-This app is available only on the App Store for iPhone, iPad and Apple TV.
+此 App 只能透過 iPhone 的 App Store 取得。
 ```
-
 <img src="logo.png" width = "230" alt="" />
 
 ## Screenshots
