@@ -2,11 +2,12 @@
 ```
 此 App 只能透過 iPhone 的 App Store 取得。
 ```
-<img src="logo.png" width = "230" alt="" />
 
 ## iWaker - 陌生人鬧鐘
-在「生活風格」類中排名第 4
 
+<img src="logo.png" width = "230" alt="" />
+
+在「生活風格」類中排名第 4
 
 ## iPhone 截圖
  <img src="001.png" width = "200" alt="" align=left />
@@ -18,7 +19,7 @@
  <img src="004.png" width = "200" alt="" align=left />
  <img src="000.png" width = "200" alt="" />
 
-## Introduction
+## 簡介
 
 現在！就讓陌生人來叫您起床吧！  
 iWaker 是一款全新型態的鬧鐘應用程式。 
