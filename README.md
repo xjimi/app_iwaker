@@ -1,5 +1,7 @@
-# iwaker.app
+# App Store Preview
+This app is available only on the App Store for iPhone, iPad and Apple TV.
+
 
 ## Screenshots
 
-[![](001.png)](001.png)
+ <img src="001.png" width = "300" alt="001" align=left />
