@@ -2,12 +2,12 @@
 ```
 此 App 只能透過 iPhone 的 App Store 取得。
 ```
-<img src="logo.png" width = "200" alt="" />  
-
 ## iWaker - 陌生人鬧鐘 
 [XJIMI](https://github.com/xjimi/app_iwaker)    
 曾經在「工具程式」類中排名第 4  
-免費  
+免費    
+
+<img src="logo.png" width = "200" alt="" />   
   
 
 ## iPhone 截圖
